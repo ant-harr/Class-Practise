@@ -1,2 +1,3 @@
 # Class-Practise
-06-Feb-21
+- Hi! I'm Anthony working as a Financial Analyst
+
